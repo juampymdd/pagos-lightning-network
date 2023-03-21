@@ -94,6 +94,6 @@ services:
 
 ### Libros
 
-[Bitcoin and Lightning Network on Raspberry Pi - Harris Brakmić](/libros/Harris%20Brakmi%C4%87%20-%20Bitcoin%20and%20Lightning%20Network%20on%20Raspberry%20Pi_%20Running%20Nodes%20on%20Pi3%2C%20Pi4%20and%20Pi%20Zero-Apress%20(2019).pdf)
-[The Little Bitcoin Book](/libros/The%20Little%20Bitcoin%20Book.pdf)
-[Mastering the Lightning Network](/libros/Andreas%20M.%20Antonopoulos%2C%20Olaoluwa%20Osuntokun%2C%20Ren%C3%A9%20Pickhardt%20-%20Mastering%20the%20Lightning%20Network_%20A%20Second%20Layer%20Blockchain%20Protocol%20for%20Instant%20Bitcoin%20Payments-O'Reilly%20Media%20(2021).pdf)
+- [Bitcoin and Lightning Network on Raspberry Pi - Harris Brakmić](/libros/Harris%20Brakmi%C4%87%20-%20Bitcoin%20and%20Lightning%20Network%20on%20Raspberry%20Pi_%20Running%20Nodes%20on%20Pi3%2C%20Pi4%20and%20Pi%20Zero-Apress%20(2019).pdf)
+- [The Little Bitcoin Book](/libros/The%20Little%20Bitcoin%20Book.pdf)
+- [Mastering the Lightning Network](/libros/Andreas%20M.%20Antonopoulos%2C%20Olaoluwa%20Osuntokun%2C%20Ren%C3%A9%20Pickhardt%20-%20Mastering%20the%20Lightning%20Network_%20A%20Second%20Layer%20Blockchain%20Protocol%20for%20Instant%20Bitcoin%20Payments-O'Reilly%20Media%20(2021).pdf)
